@@ -1,0 +1,22 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://Assets/Textures/CosmeticIcons/cosmetic_icons62.png" type="Texture" id=1]
+[ext_resource path="res://Resources/Scripts/cosmetic_resource.gd" type="Script" id=2]
+
+[resource]
+script = ExtResource( 2 )
+name = "Silly Title"
+desc = "When you're silly"
+title = "[color=#FF0000]E[/color][color=#EE0011]h[/color][color=#DD0022]e[/color][color=#CC0033]h[/color][color=#BB0044]e[/color][color=#AA0055]h[/color][color=#990066]e[/color][color=#880077]h[/color][color=#770088]e[/color][color=#660099]h[/color][color=#5500AA]e[/color][color=#4400BB]h[/color] [color=#2200DD]:[/color][color=#1100EE]3[/color]"
+icon = ExtResource( 1 )
+species_alt_mesh = [  ]
+main_color = Color( 1, 1, 1, 1 )
+body_pattern = [  ]
+mirror_face = true
+flip = false
+allow_blink = true
+category = "title"
+cos_internal_id = 0
+in_rotation = false
+chest_reward = true
+cost = 10
